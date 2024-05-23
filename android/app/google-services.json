@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "495099852045",
+    "project_id": "prjisabelapersistencia",
+    "storage_bucket": "prjisabelapersistencia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495099852045:android:06076b1c7bb2050ab06c44",
+        "android_client_info": {
+          "package_name": "com.aula.firebase.Flutter_Firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKKUxvxZyZWjsmpr_VMuapBUSoyjV7WPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495099852045:android:dc16c677b9eaa06ab06c44",
+        "android_client_info": {
+          "package_name": "com.aula.firebase.flutter_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKKUxvxZyZWjsmpr_VMuapBUSoyjV7WPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
